@@ -1,2 +1,2 @@
-# task-2
-web application using react
+# LGM-TASK-2-
+REACT JS APP
